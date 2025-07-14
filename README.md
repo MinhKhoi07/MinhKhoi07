@@ -14,8 +14,8 @@
 - Tools: Git, VS Code, Linux
 
 ## 🚀 Projects
-- [Project 1](#): Trang web quản lí chế độ ăn uống.
-- [Project 2](#): Trang web bán giày đá bóng.
+- [Project 1](#https://github.com/MinhKhoi07/CongNghePhanMem-DA22TTD): Trang web quản lí chế độ ăn uống.
+- [Project 2](#https://github.com/MinhKhoi07/110122097_NguyenMinhKhoi_ThietkeWeb): Trang web bán giày đá bóng.
 
 ## 📊 GitHub Stats
 
