@@ -14,8 +14,8 @@
 - Tools: Git, VS Code, Linux
 
 ## 🚀 Projects
-- [Project 1](#): Mô tả ngắn về dự án của bạn.
-- [Project 2](#): Mô tả ngắn về dự án của bạn.
+- [Project 1](#): Trang web quản lí chế độ ăn uống.
+- [Project 2](#): Trang web bán giày đá bóng.
 
 ## 📊 GitHub Stats
 
@@ -26,9 +26,9 @@
 </p>
 
 ## 🌐 Connect with me
-[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/](https://www.facebook.com/nguyen.khoi.802306/?locale=vi_VN))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.khoi.802306/?locale=vi_VN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoiminh.071204@gmail.com)
 
 ---
 
