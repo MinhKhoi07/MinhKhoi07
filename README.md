@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
 </p>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA1b25tMjl4NTR1eXV6Y3YxajNsYWgwczVqcHg3aXdreDRlZnByNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1gVjPZTltNBQIeJPOM/giphy.gif" width="300"/>
 ## 👨‍💻 About Me
 - 🔭 I’m passionate about software development and technology.
 - 🌱 I’m currently learning new programming languages and frameworks.
