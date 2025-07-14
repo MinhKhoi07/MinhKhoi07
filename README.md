@@ -1,0 +1,37 @@
+<h1 align="center">Hi 👋, I'm MinhKhoi07</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
+</p>
+
+## 👨‍💻 About Me
+- 🔭 I’m passionate about software development and technology.
+- 🌱 I’m currently learning new programming languages and frameworks.
+- 🤝 I’m open to collaborating on interesting projects.
+
+## 🛠️ Skills
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, ReactJS, NodeJS
+- Tools: Git, VS Code, Linux
+
+## 🚀 Projects
+- [Project 1](#): Mô tả ngắn về dự án của bạn.
+- [Project 2](#): Mô tả ngắn về dự án của bạn.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoi07&show_icons=true&theme=radical" alt="MinhKhoi07's github stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhKhoi07&theme=radical" alt="MinhKhoi07's streak stats" />
+</p>
+
+## 🌐 Connect with me
+[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/](https://www.facebook.com/nguyen.khoi.802306/?locale=vi_VN))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhKhoi07" alt="visitor badge"/>
+</p>
