@@ -1,4 +1,3 @@
-````markdown name=README.md
 <h1 align="center">Hi 👋, I'm MinhKhoi07</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
@@ -41,4 +40,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhKhoi07" alt="visitor badge"/>
 </p>
-````
