@@ -1,9 +1,11 @@
+````markdown name=README.md
 <h1 align="center">Hi 👋, I'm MinhKhoi07</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
 </p>
 
 ## 👨‍💻 About Me
+- 🎓 I am an IT student at Tra Vinh University.
 - 🔭 I’m passionate about software development and technology.
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 🤝 I’m open to collaborating on interesting projects.
@@ -14,10 +16,10 @@
 - Tools: Git, VS Code, Linux
 
 ## 🚀 Projects
-- [Project 1: Trang web quản lí chế độ ăn uống](https://github.com/MinhKhoi07/CongNghePhanMem-DA22TTD)
-- [Project 2: Trang web bán giày đá bóng](https://github.com/MinhKhoi07/110122097_NguyenMinhKhoi_ThietkeWeb)
+- [Project 1: Diet Management Website](https://github.com/MinhKhoi07/CongNghePhanMem-DA22TTD)
+- [Project 2: Football Shoes Shop Website](https://github.com/MinhKhoi07/110122097_NguyenMinhKhoi_ThietkeWeb)
 
-## 😄 Một chút vui nhộn
+## 😄 Fun Time
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA1b25tMjl4NTR1eXV6Y3YxajNsYWgwczVqcHg3aXdreDRlZnByNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1gVjPZTltNBQIeJPOM/giphy.gif" width="300"/>
 
@@ -39,3 +41,4 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhKhoi07" alt="visitor badge"/>
 </p>
+````
