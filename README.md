@@ -85,6 +85,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhKhoi07" alt="visitor badge"/>
 </p>
 
+
+
+![Snake animation](https://github.com/MinhKhoi07/MinhKhoi07/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 <p align="center">
