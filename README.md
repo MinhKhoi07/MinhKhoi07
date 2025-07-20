@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MinhKhoi07</h1>
+<h1 align="center">Hi 👋, I'm MinhKhoi</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Let's+connect+and+collaborate!" />
 </p>
